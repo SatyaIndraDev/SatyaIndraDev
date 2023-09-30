@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyaindradev" alt="satyaindradev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [satyaindradev.github.io](satyaindradev.github.io)
+- 🧑‍💻 **Portfolio :- https://satyaindradev.github.io/**
 
 - 📫 How to reach me **satyaindrad@gmail.com**
 
