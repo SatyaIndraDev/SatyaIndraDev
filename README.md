@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/satya-indra-dev-885a37193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satya indra dev" height="30" width="40" /></a>
+  https://www.linkedin.com/in/satya-indra-dev-885a37193
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
